@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecruitingApp</string>
+    <string name="message_to_display">Hello,</string>
+</resources>
